@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/toggleapp/static/js/main.1271c3fa.js",
+    "main.js": "/toggleapp/static/js/main.e3547289.js",
+    "static/media/off.jpg": "/toggleapp/static/media/off.1f050bdcebd367fdba95.jpg",
+    "static/media/on.jpg": "/toggleapp/static/media/on.111c7cbce5db6152804a.jpg",
     "index.html": "/toggleapp/index.html",
-    "main.1271c3fa.js.map": "/toggleapp/static/js/main.1271c3fa.js.map"
+    "main.e3547289.js.map": "/toggleapp/static/js/main.e3547289.js.map"
   },
   "entrypoints": [
-    "static/js/main.1271c3fa.js"
+    "static/js/main.e3547289.js"
   ]
 }
