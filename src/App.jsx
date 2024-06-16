@@ -14,7 +14,7 @@ export default function App() {
       <img src={toggle ? on : off} alt="" />
 
       <div>
-        <button onClick={toggleButton}>{toggle ? "off" : "on"}</button>
+        <button onClick={toggleButton}>{toggle ? "on" : "off"}</button>
       </div>
     </div>
   );
